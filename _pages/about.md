@@ -15,7 +15,7 @@ The Hong Kong University of Science and Technology
 - Phd and MPhil in Social Science, 2023 - Present
 
 Sun Yat-sen University
-- Master of Sociology, 2023-2025
+- Master of Sociology, 2020-2023
 - Bachelor of Political Science and Statistics (Minor), 2016-2020
 
 
