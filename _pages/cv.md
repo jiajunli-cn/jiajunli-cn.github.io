@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-[Download my CV](http://academicpages.github.io/files/cvljj.pdf)
+[Download my CV](*/files/cvljj.pdf)
 
