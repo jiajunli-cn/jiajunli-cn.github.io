@@ -11,10 +11,10 @@ Hello, this is Jiajun Li and my Chinese name is 李嘉俊. I am a PhD student at
 
 ## Education
 
-The Hong Kong University of Science and Technology
+The Hong Kong University of Science and Technology, Hon Kong SAR, China
 - Phd and MPhil in Social Science, 2023 - Present
 
-Sun Yat-sen University
+Sun Yat-sen University, Guangzhou, China
 - Master of Sociology, 2020-2023
 - Bachelor of Political Science and Statistics (Minor), 2016-2020
 
