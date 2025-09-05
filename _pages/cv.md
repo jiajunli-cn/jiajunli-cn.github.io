@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV](https://academicpages.github.io/files/CV_Jiajun_Li.pdf)
+[Download my CV](http://academicpages.github.io/files/cvljj.pdf)
 
