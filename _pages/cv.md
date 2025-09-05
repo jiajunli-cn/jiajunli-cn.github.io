@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
-[Download my CV](/files/cvljj.pdf)
+
+[Download my CV](https://jiajunli-cn.github.io/files/cvljj.pdf)
 
