@@ -12,4 +12,6 @@ author_profile: true
 
 ## Work in Progress
 
+**The Forge of Loyalty: How Natural Disasters Incubate National Commitment**
+
 **Public Opinions Towards Poverty Policy: A Discourse Network Analysis (with Chenhong Peng and Sijia Li)**
