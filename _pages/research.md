@@ -12,7 +12,7 @@ author_profile: true
 
 **Beyond Propaganda: Can Natural Disasters Incubate National Allegiance?**
 
-**The Long Shadow of Heroes: Can Martyrs's Cemeteries Curb Street and Neighborhood Crime in China?**
+**The Long Shadow of Heroes: Can Martyrs' Cemeteries Curb Street and Neighborhood Crime in China?**
 
 ## Work in Progress
 
