@@ -19,8 +19,8 @@ author_profile: true
 **Beyond Propaganda: Can Natural Disasters Incubate National Allegiance?**
 - Abstract: This study investigates whether individuals who experienced severe natural disasters during childhood or adolescence exhibit a greater propensity to enlist in the military in adulthood. Drawing on data from the China Labor-force Dynamics Survey (2012–2018) and employing a Regression Discontinuity in Time (RDiT) design, the analysis reveals that exposure to major disasters—such as floods and earthquakes—significantly increases the likelihood of military enlistment. After eliminating alternative explanations, including pro-social behavioral shifts or compensatory labor market motivations, the findings suggest that state-led disaster relief efforts strengthen individuals’ national allegiance, which eventually encourages military participation.
 
-*Figure: Individuals Who Did Not Experience Severe Natural Disasters vs. Those Who Experienced*
-![The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes](https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/files/combined_disaster.png)
+*Figure: RD Estimate on Military Enlistment--Individuals Who Did Not Experience Severe Natural Disasters vs. Those Who Experienced*
+![RD Estimate of Military Enlistment Individuals Who Did Not Experience Severe Natural Disasters vs. Those Who Experienced](https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/files/combined_disaster.png)
 
 ## Work in Progress
 
