@@ -15,7 +15,7 @@ author_profile: true
 
 *Figure: The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes*
 ![The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes](https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/files/combined_crime.png)
-*The Ratio of Crimes = Num. of Crimes within Rkm / Num. of Crimes within 2Rkm × 100)*
+**The Ratio of Crimes = Num. of Crimes within Rkm / Num. of Crimes within 2Rkm × 100)*
 
 **Beyond Propaganda: Can Natural Disasters Incubate National Allegiance?**
 - Abstract: This study investigates whether individuals who experienced severe natural disasters during childhood or adolescence exhibit a greater propensity to enlist in the military in adulthood. Drawing on data from the China Labor-force Dynamics Survey (2012–2018) and employing a Regression Discontinuity in Time (RDiT) design, the analysis reveals that exposure to major disasters—such as floods and earthquakes—significantly increases the likelihood of military enlistment. After eliminating alternative explanations, including pro-social behavioral shifts or compensatory labor market motivations, the findings suggest that state-led disaster relief efforts strengthen individuals’ national allegiance, which eventually encourages military participation.
