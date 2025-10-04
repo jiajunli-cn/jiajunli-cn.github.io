@@ -13,7 +13,7 @@ author_profile: true
 **The Long Shadow of Heroes: Can Martyrs' Cemeteries Curb Street and Neighborhood Crime?**
 - Abstract: This study examines whether the establishment of martyrs' cemetery parks influences street and neighborhood crime in adjacent areas. By integrating approximately 2 million spatiotemporal crime records (2000–2019) with data on 698 martyrs' cemetery parks (2013-2022) and employing a Staggered Difference-in-Differences (SDID) design, this paper finds that the construction of such parks leads to a significant reduction in both the number and ratio of crimes within a radius of 1 to 10 kilometers. However, the distance between these parks and crime venues decreases within 1–2 kilometers radius, suggesting that these adjacent and less populated areas may become more susceptible to illegal activities. The findings illustrate how patriotic education, manifested through physical commemorative spaces, can reshape public attitudes and social conduct.
 
-*The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes
+*The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes*
 ![The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes](https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/files/combined_crime.png)
 
 **Beyond Propaganda: Can Natural Disasters Incubate National Allegiance?**
