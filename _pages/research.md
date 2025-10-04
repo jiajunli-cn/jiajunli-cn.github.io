@@ -15,7 +15,7 @@ author_profile: true
 
 *Figure: The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes*
 
-<img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/images/profile" width=600>
+<img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/images/profile.png" width=600>
 
 **The Ratio of Crimes = Num. of Crimes within Rkm / Num. of Crimes within 2Rkm × 100)*
 
