@@ -24,7 +24,7 @@ author_profile: true
 
 *Figure: RD Estimate on Military Enlistment--Individuals Who Did Not Experience Severe Natural Disasters vs. Those Who Experienced*
 
-<img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/files/combined_disaster.png" width=600>
+<img src="profile.png" width=600>
 
 ## Work in Progress
 
