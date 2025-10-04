@@ -13,18 +13,8 @@ author_profile: true
 **The Long Shadow of Heroes: Can Martyrs' Cemeteries Curb Street and Neighborhood Crime?**
 - Abstract: This study examines whether the establishment of martyrs' cemetery parks influences street and neighborhood crime in adjacent areas. By integrating approximately 2 million spatiotemporal crime records (2000–2019) with data on 698 martyrs' cemetery parks (2013-2022) and employing a Staggered Difference-in-Differences (SDID) design, this paper finds that the construction of such parks leads to a significant reduction in both the number and ratio of crimes within a radius of 1 to 5 kilometers. However, the distance between these parks and crime venues decreases within 1–2 kilometers radius, suggesting that these adjacent and less populated areas may become more susceptible to illegal activities. The findings illustrate how patriotic education, manifested through physical commemorative spaces, can reshape public attitudes and social conduct.
 
-*Figure: The Effect of the Establishment of Martyrs' Cemetery Parks on Ratio of Crimes*
-
-<img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/blob/master/images/profile.png" width=600>
-
-**The Ratio of Crimes = Num. of Crimes within Rkm / Num. of Crimes within 2Rkm × 100)*
-
 **Beyond Propaganda: Can Natural Disasters Incubate National Allegiance?**
 - Abstract: This study investigates whether individuals who experienced severe natural disasters during childhood or adolescence exhibit a greater propensity to enlist in the military in adulthood. Drawing on data from the China Labor-force Dynamics Survey (2012–2018) and employing a Regression Discontinuity in Time (RDiT) design, the analysis reveals that exposure to major disasters—such as floods and earthquakes—significantly increases the likelihood of military enlistment. After eliminating alternative explanations, including pro-social behavioral shifts or compensatory labor market motivations, the findings suggest that state-led disaster relief efforts strengthen individuals’ national allegiance, which eventually encourages military participation.
-
-*Figure: RD Estimate on Military Enlistment--Individuals Who Did Not Experience Severe Natural Disasters vs. Those Who Experienced*
-
-<img src="profile.png" width=600>
 
 ## Work in Progress
 
