@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Jiajun Li and my Chinese name is 李嘉俊. I am a PhD student at [Division of Social Science](https://sosc.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interests are **political behaviors**, **political psychology**, and **Chinese politics**. Currently, I focus on how social context and disaster memory influence political beliefs and behaviors, such as negative experience narratives, political trust, and altruistic nationalism. Methodologically, I incorporate computational methods and large language model simulation into traditional survey and experimental studies.  
+Hello, my name is Jiajun Li (李嘉俊). I am a PhD student in the [Division of Social Science](https://sosc.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interests include ​​**political behavior**​​, **​​political psychology**​​, and ​​**Chinese politics**​​. Currently, I focus on how social context and disaster memory shape political beliefs and behaviors—such as narratives of negative experiences, political trust, altruistic nationalism, and social conduct. Methodologically, I integrate computational approaches and large language model simulations with traditional survey and experimental research.
 
 ## Education
 
