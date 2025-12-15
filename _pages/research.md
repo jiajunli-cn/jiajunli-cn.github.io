@@ -14,7 +14,7 @@ author_profile: true
 
 <img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/raw/master/images/index.jpg" width=300>
 
-**The Long Shadow of Heroes: Martyrs' Cemetery, Patriotic Education, and Street Crime**[(View)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5295959)
+**The Long Shadow of Heroes: Martyrs' Cemetery, Patriotic Education, and Street Crime**[(View)]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5295959](https://github.com/jiajunli-cn/jiajunli-cn.github.io/raw/master/files/crime_new_2025.pdf))
 - Abstract: Moving beyond the traditional dichotomy of formal and informal social control, this study explores how state curbs crime by embedding political and historical narratives in physical space. Drawing on geo-coded crime data and a staggered Difference-in-Differences design, results show the establishment of  Martyrs' Cemetery Parks (MCPs) lead to a significant decline of crimes within adjacent areas, especially property crimes. The crime-reduction effect decays with distance and operates through two channels: spatially by the clustering of patriotic education venues rather than more police force, and temporally by seasonally memorial activities especially during the August to October. Moreover, the vignette experiment, complemented by instrumental variable estimates derived from a national survey, provides plausible evidence demonstrating how memorial architecture fosters social order through implicit moral suasion from patriotic education rather than through conventional forms of coercion.
 
 *Figure: The Effect of Martyrs' Cemetery parks on Ratio of Crimes*
