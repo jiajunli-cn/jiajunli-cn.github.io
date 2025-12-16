@@ -30,21 +30,6 @@ Hello, my name is Jiajun Li (李嘉俊). I am a PhD student in the [Division of 
 **The Long Shadow of Heroes: Martyrs' Cemetery, Patriotic Education, and Street Crime**[(View)](https://github.com/jiajunli-cn/jiajunli-cn.github.io/raw/master/files/crime_new_2025.pdf)
 - Abstract: Moving beyond the traditional dichotomy of formal and informal social control, this study explores how state curbs crime by embedding political and historical narratives in physical space. Drawing on geo-coded crime data and a staggered Difference-in-Differences design, results show the establishment of  Martyrs' Cemetery Parks (MCPs) lead to a significant decline of crimes within adjacent areas, especially property crimes. The crime-reduction effect decays with distance and operates through two channels: spatially by the clustering of patriotic education venues rather than more police force, and temporally by seasonally memorial activities especially during the August to October. Moreover, the vignette experiment, complemented by instrumental variable estimates derived from a national survey, provides plausible evidence demonstrating how memorial architecture fosters social order through implicit moral suasion from patriotic education rather than through conventional forms of coercion.
 
-*Figure: The Effect of Martyrs' Cemetery parks on Ratio of Crimes*
+*Figure: Monthly Trends: The Effect of Martyrs' Cemetery Parks on Crimes*
 
 <img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/raw/master/images/combined_crime.jpg" width=400>
-
-**The Ratio of Crimes = Num. of Crimes within R km / Num. of Crimes within 2R km * 100*
-
-**Beyond Propaganda: Can Natural Disasters Incubate National Allegiance?**
-- Abstract: This study investigates whether individuals who experienced severe natural disasters during childhood or adolescence exhibit a greater propensity to enlist in the military in adulthood. Drawing on data from the China Labor-force Dynamics Survey (2012–2018) and employing a Regression Discontinuity in Time (RDiT) design, the analysis reveals that exposure to major disasters—such as floods and earthquakes—significantly increases the likelihood of military enlistment. After eliminating alternative explanations, including pro-social behavioral shifts or compensatory labor market motivations, the findings suggest that state-led disaster relief efforts strengthen individuals’ national allegiance, which eventually encourages military participation.
-
-*Figure: RDiT Estimate on the Likelihood of Military Enlistment*
-
-<img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/raw/master/images/combined_disaster.jpg" width=400>
-
-**Individuals who did NOT experience vs. those experienced*
-
-## Work in Progress
-
-**Public Opinions Towards Poverty Policy: A Discourse Network Analysis (with Chenhong Peng and Sijia Li)**
