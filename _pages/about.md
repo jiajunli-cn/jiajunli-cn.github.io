@@ -32,4 +32,4 @@ Hello, my name is Jiajun Li (李嘉俊). I am a PhD student in the [Division of 
 
 *Figure: Monthly Trends: The Effect of Martyrs' Cemetery Parks on Crimes*
 
-<img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/raw/master/images/combined_crime.jpg" width=400>
+<img src="https://github.com/jiajunli-cn/jiajunli-cn.github.io/raw/master/images/temporal_mechanism.png" width=400>
