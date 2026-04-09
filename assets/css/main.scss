@@ -1,6 +1,8 @@
 ---
 ---
 
+/* Last revised: 2026-04-09 10:20 */
+
 /*
  * This file controls what is imported from /_sass
  *
@@ -45,6 +47,7 @@
 :root {
   --accent-soft: #d8e4ea;
   --accent-strong: #1e5a6b;
+  --accent-ink: #173c48;
   --surface-muted: #f6f4ef;
   --surface-border: #e2ddd2;
 }
@@ -157,6 +160,18 @@ body {
   @include breakpoint($medium) {
     padding: 2.2rem 2rem;
   }
+
+  &::after {
+    content: "";
+    position: absolute;
+    right: -60px;
+    bottom: -70px;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(30, 90, 107, 0.16), rgba(30, 90, 107, 0));
+    pointer-events: none;
+  }
 }
 
 .home-hero__eyebrow {
@@ -213,6 +228,41 @@ body {
   margin: 1rem 0 0.4rem;
 }
 
+.home-facts {
+  display: grid;
+  gap: 0.8rem;
+  margin: -1.1rem 0 2rem;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.home-fact {
+  padding: 0.95rem 1rem;
+  border: 1px solid rgba(30, 90, 107, 0.12);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.86);
+  box-shadow: 0 8px 18px rgba(20, 36, 44, 0.05);
+}
+
+.home-fact__label {
+  margin: 0 0 0.22rem;
+  color: var(--accent-strong);
+  font-size: 0.77rem !important;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.home-fact__value {
+  margin: 0;
+  color: var(--accent-ink);
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
 .topic-chip {
   padding: 0.55rem 0.9rem;
   border: 1px solid var(--surface-border);
@@ -237,6 +287,10 @@ body {
 
   p:last-child {
     margin-bottom: 0;
+  }
+
+  @include breakpoint($medium) {
+    padding: 1.5rem 1.45rem;
   }
 }
 
@@ -269,6 +323,39 @@ body {
 
 .research-figure--small img {
   max-width: 26rem;
+}
+
+.research-card--detailed {
+  position: relative;
+  isolation: isolate;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 1rem;
+    bottom: 1rem;
+    width: 4px;
+    border-radius: 4px;
+    background: linear-gradient(180deg, rgba(30, 90, 107, 0.5), rgba(30, 90, 107, 0.08));
+  }
+}
+
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.home-hero,
+.home-fact,
+.research-card {
+  animation: riseIn 0.55s ease both;
 }
 
 .page__footer-copyright {
